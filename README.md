@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Trần Minh Mạnh 👋
 
-<!--
-**Skydio-Flyer/Skydio-Flyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Chemistry student at Le Quy Don High School For The Gifted
+- 🏸 Sports enthusiast - badminton, soccer, basketball
+- 🎮 Xbox gamer
+- 💻 Beginning my journey in programming
 
-Here are some ideas to get you started:
+## Learning Path
+- 📝 Pascal basics
+- 🌐 HTML fundamentals
+- 🔍 Exploring more programming languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- [Facebook](https://www.facebook.com/tranminhmanh.75/)
+- [Instagram](https://www.instagram.com/skydioflyer/)
+
+![Visitor Count](https://profile-counter.glitch.me/Skydio-Flyer/count.svg)
