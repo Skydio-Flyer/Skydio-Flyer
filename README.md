@@ -14,5 +14,3 @@
 ## Connect With Me
 - [Facebook](https://www.facebook.com/tranminhmanh.75/)
 - [Instagram](https://www.instagram.com/skydioflyer/)
-
-![Visitor Count](https://profile-counter.glitch.me/Skydio-Flyer/count.svg)
